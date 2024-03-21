@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://komarev.com/ghpvc/?username=D0D4)
+![](https://komarev.com/ghpvc/?username=D0D4) ![](https://discord.gg/pugls)
 <!--
 **D0D4/D0D4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
